@@ -6,7 +6,6 @@ exports[`Validar Componente <NavBar> Validar el contenido el nombre del usuario 
 >
   <a
     className="navbar-brand"
-    href="/"
     onClick={[Function]}
   >
     Asociaciones
@@ -20,7 +19,6 @@ exports[`Validar Componente <NavBar> Validar el contenido el nombre del usuario 
       <a
         aria-current={null}
         className="nav-item nav-link"
-        href="/marvel"
         onClick={[Function]}
       >
         Marvel
@@ -28,7 +26,6 @@ exports[`Validar Componente <NavBar> Validar el contenido el nombre del usuario 
       <a
         aria-current={null}
         className="nav-item nav-link"
-        href="/dc"
         onClick={[Function]}
       >
         DC
@@ -36,7 +33,6 @@ exports[`Validar Componente <NavBar> Validar el contenido el nombre del usuario 
       <a
         aria-current={null}
         className="nav-item nav-link"
-        href="/search"
         onClick={[Function]}
       >
         Search
